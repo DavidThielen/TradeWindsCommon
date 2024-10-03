@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable><Version>1.0.0.1</Version>
+    <Nullable>enable</Nullable><Version>1.0.0.2</Version>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Basic utility classes</Title>
     <Authors>DavidThielen</Authors>
@@ -15,9 +15,14 @@
     <PackageTags>Trade Winds Studios</PackageTags>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <RepositoryUrl>https://github.com/DavidThielen/TradeWindsCommon</RepositoryUrl>
+    <PackageIcon>sailboat.png</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="..\..\sailboat.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
     <None Include="..\LICENSE.txt">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>

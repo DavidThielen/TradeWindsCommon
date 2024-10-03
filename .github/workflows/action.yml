@@ -25,7 +25,7 @@ jobs:
           include-prerelease: true
 
       - name: Build
-        run: dotnet build .\TradeWindsExtensions\TradeWindsExtensions.csproj --configuration Release
+        run: dotnet build .\TradeWindsCommon\TradeWindsCommon.csproj --configuration Release
 
       - name: Unit Tests
         run: dotnet test .\UnitTests\UnitTests.csproj
