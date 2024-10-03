@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable><Version>1.0.0.2</Version>
+    <Nullable>enable</Nullable><Version>1.0.0.3</Version>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Basic utility classes</Title>
     <Authors>DavidThielen</Authors>
