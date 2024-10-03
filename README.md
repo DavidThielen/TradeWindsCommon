@@ -1,6 +1,10 @@
+<img align="left" width="200" src="sailboat.png"/>
+
 # TradeWindsCommon
 
-These are some basic classes I use throughout my code, including in some of my other NuGet projects.
+These are some basic classes I use throughout my code, including in some of the other Trade Winds NuGet projects.
+
+-----
 
 > This is under the MIT license. If you find this very useful I ask (not a requirement) that you consider reading my book [I DON’T KNOW WHAT I’M DOING!: How a Programmer Became a Successful Startup CEO](https://a.co/d/bEpDlJR).
 > 
