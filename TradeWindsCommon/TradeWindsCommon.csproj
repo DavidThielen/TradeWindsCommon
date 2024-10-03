@@ -19,7 +19,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\sailboat.png">
+    <None Include="..\sailboat.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
